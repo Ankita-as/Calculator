@@ -1,2 +1,2 @@
 # Calculator
-A Html, CSS, JavaScript project
+A Html, CSS, JavaScript basic project
